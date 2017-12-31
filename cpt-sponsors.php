@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Sponsors CPT
-Plugin URI: .
+Plugin URI: https://github.com/macgraphic/Sponsors-cpt
 Description: Create the Sponsors CPT and add it to the Rest API for the App.
-Version: 0.0.4
+Version: 1.1.6
 Author: Mark Smallman
 Author URI: https://macgraphic.co.uk
 License: GPLv2
